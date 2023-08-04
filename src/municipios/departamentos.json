@@ -1,0 +1,134 @@
+[
+  {
+    "NOMBRE": "AMAZONAS",
+    "CODIGO_DANE": "01"
+  },
+  {
+    "NOMBRE": "ANTIOQUIA",
+    "CODIGO_DANE": "02"
+  },
+  {
+    "NOMBRE": "ARAUCA",
+    "CODIGO_DANE": "03"
+  },
+  {
+    "NOMBRE": "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "CODIGO_DANE": "04"
+  },
+  {
+    "NOMBRE": "ATLÁNTICO",
+    "CODIGO_DANE": "05"
+  },
+  {
+    "NOMBRE": "BOGOTÁ D.C.",
+    "CODIGO_DANE": "11"
+  },
+  {
+    "NOMBRE": "BOLÍVAR",
+    "CODIGO_DANE": "13"
+  },
+  {
+    "NOMBRE": "BOYACÁ",
+    "CODIGO_DANE": "15"
+  },
+  {
+    "NOMBRE": "CALDAS",
+    "CODIGO_DANE": "17"
+  },
+  {
+    "NOMBRE": "CAQUETÁ",
+    "CODIGO_DANE": "18"
+  },
+  {
+    "NOMBRE": "CASANARE",
+    "CODIGO_DANE": "85"
+  },
+  {
+    "NOMBRE": "CAUCA",
+    "CODIGO_DANE": "19"
+  },
+  {
+    "NOMBRE": "CESAR",
+    "CODIGO_DANE": "20"
+  },
+  {
+    "NOMBRE": "CHOCÓ",
+    "CODIGO_DANE": "27"
+  },
+  {
+    "NOMBRE": "CÓRDOBA",
+    "CODIGO_DANE": "23"
+  },
+  {
+    "NOMBRE": "CUNDINAMARCA",
+    "CODIGO_DANE": "25"
+  },
+  {
+    "NOMBRE": "GUAINÍA",
+    "CODIGO_DANE": "94"
+  },
+  {
+    "NOMBRE": "GUAVIARE",
+    "CODIGO_DANE": "95"
+  },
+  {
+    "NOMBRE": "HUILA",
+    "CODIGO_DANE": "41"
+  },
+  {
+    "NOMBRE": "LA GUAJIRA",
+    "CODIGO_DANE": "44"
+  },
+  {
+    "NOMBRE": "MAGDALENA",
+    "CODIGO_DANE": "47"
+  },
+  {
+    "NOMBRE": "META",
+    "CODIGO_DANE": "50"
+  },
+  {
+    "NOMBRE": "NARIÑO",
+    "CODIGO_DANE": "52"
+  },
+  {
+    "NOMBRE": "NORTE DE SANTANDER",
+    "CODIGO_DANE": "54"
+  },
+  {
+    "NOMBRE": "PUTUMAYO",
+    "CODIGO_DANE": "86"
+  },
+  {
+    "NOMBRE": "QUINDÍO",
+    "CODIGO_DANE": "63"
+  },
+  {
+    "NOMBRE": "RISARALDA",
+    "CODIGO_DANE": "66"
+  },
+  {
+    "NOMBRE": "SANTANDER",
+    "CODIGO_DANE": "68"
+  },
+  {
+    "NOMBRE": "SUCRE",
+    "CODIGO_DANE": "70"
+  },
+  {
+    "NOMBRE": "TOLIMA",
+    "CODIGO_DANE": "73"
+  },
+  {
+    "NOMBRE": "VALLE DEL CAUCA",
+    "CODIGO_DANE": "76"
+  },
+  {
+    "NOMBRE": "VAUPÉS",
+    "CODIGO_DANE": "97"
+  },
+  {
+    "NOMBRE": "VICHADA",
+    "CODIGO_DANE": "99"
+  }
+]

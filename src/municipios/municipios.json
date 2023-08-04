@@ -1,0 +1,7835 @@
+[
+  {
+    "CODIGO_MUNICIPIO": "91263",
+    "Nombre": "El Encanto",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "91405",
+    "Nombre": "La Chorrera",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "91407",
+    "Nombre": "La Pedrera",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "91430",
+    "Nombre": "La Victoria",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "91001",
+    "Nombre": "Leticia",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "91460",
+    "Nombre": "Miriti - Parana",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "91530",
+    "Nombre": "Puerto Alegria",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "91536",
+    "Nombre": "Puerto Arica",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "91540",
+    "Nombre": "Puerto Nariño",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "91669",
+    "Nombre": "Puerto Santander",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "91798",
+    "Nombre": "Tarapaca",
+    "NOMBRE_DEPTO": "AMAZONAS",
+    "DANE_DEPTO": "01",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05120",
+    "Nombre": "Caceres",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05154",
+    "Nombre": "Caucasia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05250",
+    "Nombre": "El Bagre",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05495",
+    "Nombre": "Nechi",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05790",
+    "Nombre": "Taraza",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05895",
+    "Nombre": "Zaragoza",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05142",
+    "Nombre": "Caracoli",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05425",
+    "Nombre": "Maceo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05579",
+    "Nombre": "Puerto Berrio",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05585",
+    "Nombre": "Puerto Nare",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05591",
+    "Nombre": "Puerto Triunfo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05893",
+    "Nombre": "Yondo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05031",
+    "Nombre": "Amalfi",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05040",
+    "Nombre": "Anori",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05190",
+    "Nombre": "Cisneros",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05604",
+    "Nombre": "Remedios",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05670",
+    "Nombre": "San Roque",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05690",
+    "Nombre": "Santo Domingo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05736",
+    "Nombre": "Segovia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05858",
+    "Nombre": "Vegachi",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05885",
+    "Nombre": "Yali",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05890",
+    "Nombre": "Yolombo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05038",
+    "Nombre": "Angostura",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05086",
+    "Nombre": "Belmira",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05107",
+    "Nombre": "Briceño",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05134",
+    "Nombre": "Campamento",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05150",
+    "Nombre": "Carolina",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05237",
+    "Nombre": "Don Matias",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05264",
+    "Nombre": "Entrerrios",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05310",
+    "Nombre": "Gomez Plata",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05315",
+    "Nombre": "Guadalupe",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05361",
+    "Nombre": "Ituango",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05647",
+    "Nombre": "San Andres",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05658",
+    "Nombre": "San Jose De La Montaña",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05664",
+    "Nombre": "San Pedro",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05686",
+    "Nombre": "Santa Rosa De Osos",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05819",
+    "Nombre": "Toledo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05854",
+    "Nombre": "Valdivia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05887",
+    "Nombre": "Yarumal",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05004",
+    "Nombre": "Abriaqui",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05044",
+    "Nombre": "Anza",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05059",
+    "Nombre": "Armenia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05113",
+    "Nombre": "Buritica",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05138",
+    "Nombre": "Cañasgordas",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05234",
+    "Nombre": "Dabeiba",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05240",
+    "Nombre": "Ebejico",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05284",
+    "Nombre": "Frontino",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05306",
+    "Nombre": "Giraldo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05347",
+    "Nombre": "Heliconia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05411",
+    "Nombre": "Liborina",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05501",
+    "Nombre": "Olaya",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05543",
+    "Nombre": "Peque",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05628",
+    "Nombre": "Sabanalarga",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05656",
+    "Nombre": "San Jeronimo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05042",
+    "Nombre": "Santafe De Antioquia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05761",
+    "Nombre": "Sopetran",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05842",
+    "Nombre": "Uramita",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05002",
+    "Nombre": "Abejorral",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05021",
+    "Nombre": "Alejandria",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05055",
+    "Nombre": "Argelia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05148",
+    "Nombre": "Carmen De Viboral",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05197",
+    "Nombre": "Cocorna",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05206",
+    "Nombre": "Concepcion",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05313",
+    "Nombre": "Granada",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05318",
+    "Nombre": "Guarne",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05321",
+    "Nombre": "Guatape",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05376",
+    "Nombre": "La Ceja",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05400",
+    "Nombre": "La Union",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05440",
+    "Nombre": "Marinilla",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05483",
+    "Nombre": "Nariño",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05541",
+    "Nombre": "Peñol",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05607",
+    "Nombre": "Retiro",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05615",
+    "Nombre": "Rionegro",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05649",
+    "Nombre": "San Carlos",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05652",
+    "Nombre": "San Francisco",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05660",
+    "Nombre": "San Luis",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05667",
+    "Nombre": "San Rafael",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05674",
+    "Nombre": "San Vicente",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05697",
+    "Nombre": "Santuario",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05756",
+    "Nombre": "Sonson",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05030",
+    "Nombre": "Amaga",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05034",
+    "Nombre": "Andes",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05036",
+    "Nombre": "Angelopolis",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05091",
+    "Nombre": "Betania",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05093",
+    "Nombre": "Betulia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05125",
+    "Nombre": "Caicedo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05145",
+    "Nombre": "Caramanta",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05101",
+    "Nombre": "Ciudad Bolivar",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05209",
+    "Nombre": "Concordia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05282",
+    "Nombre": "Fredonia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05353",
+    "Nombre": "Hispania",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05364",
+    "Nombre": "Jardin",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05368",
+    "Nombre": "Jerico",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05390",
+    "Nombre": "La Pintada",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05467",
+    "Nombre": "Montebello",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05576",
+    "Nombre": "Pueblorrico",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05642",
+    "Nombre": "Salgar",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05679",
+    "Nombre": "Santa Barbara",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05789",
+    "Nombre": "Tamesis",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05792",
+    "Nombre": "Tarso",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05809",
+    "Nombre": "Titiribi",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05847",
+    "Nombre": "Urrao",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05856",
+    "Nombre": "Valparaiso",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05861",
+    "Nombre": "Venecia",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05045",
+    "Nombre": "Apartado",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05051",
+    "Nombre": "Arboletes",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05147",
+    "Nombre": "Carepa",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05172",
+    "Nombre": "Chigorodo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05475",
+    "Nombre": "Murindo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05480",
+    "Nombre": "Mutata",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05490",
+    "Nombre": "Necocli",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05659",
+    "Nombre": "San Juan De Uraba",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05665",
+    "Nombre": "San Pedro De Uraba",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05837",
+    "Nombre": "Turbo",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05873",
+    "Nombre": "Vigia Del Fuerte",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05079",
+    "Nombre": "Barbosa",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05088",
+    "Nombre": "Bello",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05129",
+    "Nombre": "Caldas",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05212",
+    "Nombre": "Copacabana",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05266",
+    "Nombre": "Envigado",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05308",
+    "Nombre": "Girardota",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05360",
+    "Nombre": "Itagui",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05380",
+    "Nombre": "La Estrella",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05001",
+    "Nombre": "Medellin",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "05631",
+    "Nombre": "Sabaneta",
+    "NOMBRE_DEPTO": "ANTIOQUIA",
+    "DANE_DEPTO": "02",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "81001",
+    "Nombre": "Arauca",
+    "NOMBRE_DEPTO": "ARAUCA",
+    "DANE_DEPTO": "03",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "81065",
+    "Nombre": "Arauquita",
+    "NOMBRE_DEPTO": "ARAUCA",
+    "DANE_DEPTO": "03",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "81220",
+    "Nombre": "Cravo Norte",
+    "NOMBRE_DEPTO": "ARAUCA",
+    "DANE_DEPTO": "03",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "81300",
+    "Nombre": "Fortul",
+    "NOMBRE_DEPTO": "ARAUCA",
+    "DANE_DEPTO": "03",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "81591",
+    "Nombre": "Puerto Rondon",
+    "NOMBRE_DEPTO": "ARAUCA",
+    "DANE_DEPTO": "03",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "81736",
+    "Nombre": "Saravena",
+    "NOMBRE_DEPTO": "ARAUCA",
+    "DANE_DEPTO": "03",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "81794",
+    "Nombre": "Tame",
+    "NOMBRE_DEPTO": "ARAUCA",
+    "DANE_DEPTO": "03",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "88564",
+    "Nombre": "Providencia Y Santa Catalina",
+    "NOMBRE_DEPTO": "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "DANE_DEPTO": "04",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "88001",
+    "Nombre": "San Andres",
+    "NOMBRE_DEPTO": "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "DANE_DEPTO": "04",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08001",
+    "Nombre": "Barranquilla",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08296",
+    "Nombre": "Galapa",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08433",
+    "Nombre": "Malambo",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08573",
+    "Nombre": "Puerto Colombia",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08758",
+    "Nombre": "Soledad",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08137",
+    "Nombre": "Campo De La Cruz",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08141",
+    "Nombre": "Candelaria",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08421",
+    "Nombre": "Luruaco",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08436",
+    "Nombre": "Manati",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08606",
+    "Nombre": "Repelon",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08675",
+    "Nombre": "Santa Lucia",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08770",
+    "Nombre": "Suan",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08078",
+    "Nombre": "Baranoa",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08520",
+    "Nombre": "Palmar De Varela",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08558",
+    "Nombre": "Polonuevo",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08560",
+    "Nombre": "Ponedera",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08634",
+    "Nombre": "Sabanagrande",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08638",
+    "Nombre": "Sabanalarga",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08685",
+    "Nombre": "Santo Tomas",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08372",
+    "Nombre": "Juan De Acosta",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08549",
+    "Nombre": "Piojo",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08832",
+    "Nombre": "Tubara",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "08849",
+    "Nombre": "Usiacuri",
+    "NOMBRE_DEPTO": "ATLÁNTICO",
+    "DANE_DEPTO": "05",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "11001",
+    "Nombre": "Bogota D.C.",
+    "NOMBRE_DEPTO": "BOGOTÁ D.C.",
+    "DANE_DEPTO": "11",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13188",
+    "Nombre": "Cicuco",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13300",
+    "Nombre": "Hatillo De Loba",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13440",
+    "Nombre": "Margarita",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13468",
+    "Nombre": "Mompos",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13650",
+    "Nombre": "San Fernando",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13780",
+    "Nombre": "Talaigua Nuevo",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13052",
+    "Nombre": "Arjona",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13062",
+    "Nombre": "Arroyohondo",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13140",
+    "Nombre": "Calamar",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13001",
+    "Nombre": "Cartagena",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13222",
+    "Nombre": "Clemencia",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13433",
+    "Nombre": "Mahates",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13620",
+    "Nombre": "San Cristobal",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13647",
+    "Nombre": "San Estanislao",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13673",
+    "Nombre": "Santa Catalina",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13683",
+    "Nombre": "Santa Rosa De Lima",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13760",
+    "Nombre": "Soplaviento",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13836",
+    "Nombre": "Turbaco",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13838",
+    "Nombre": "Turbana",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13873",
+    "Nombre": "Villanueva",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13030",
+    "Nombre": "Altos Del Rosario",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13074",
+    "Nombre": "Barranco De Loba",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13268",
+    "Nombre": "El Peñon",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13580",
+    "Nombre": "Regidor",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13600",
+    "Nombre": "Rio Viejo",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13667",
+    "Nombre": "San Martin De Loba",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13042",
+    "Nombre": "Arenal",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13160",
+    "Nombre": "Cantagallo",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13473",
+    "Nombre": "Morales",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13670",
+    "Nombre": "San Pablo",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13688",
+    "Nombre": "Santa Rosa Del Sur",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13744",
+    "Nombre": "Simiti",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13006",
+    "Nombre": "Achi",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13430",
+    "Nombre": "Magangue",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13458",
+    "Nombre": "Montecristo",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13549",
+    "Nombre": "Pinillos",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13655",
+    "Nombre": "San Jacinto Del Cauca",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13810",
+    "Nombre": "Tiquisio",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13244",
+    "Nombre": "Carmen De Bolivar",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13212",
+    "Nombre": "Cordoba",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13248",
+    "Nombre": "El Guamo",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13442",
+    "Nombre": "Maria La Baja",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13654",
+    "Nombre": "San Jacinto",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13657",
+    "Nombre": "San Juan Nepomuceno",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "13894",
+    "Nombre": "Zambrano",
+    "NOMBRE_DEPTO": "BOLÍVAR",
+    "DANE_DEPTO": "13",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15232",
+    "Nombre": "Chiquiza",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15187",
+    "Nombre": "Chivata",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15204",
+    "Nombre": "Combita",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15224",
+    "Nombre": "Cucaita",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15476",
+    "Nombre": "Motavita",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15500",
+    "Nombre": "Oicata",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15646",
+    "Nombre": "Samaca",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15740",
+    "Nombre": "Siachoque",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15762",
+    "Nombre": "Sora",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15764",
+    "Nombre": "Soraca",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15763",
+    "Nombre": "Sotaquira",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15814",
+    "Nombre": "Toca",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15001",
+    "Nombre": "Tunja",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15837",
+    "Nombre": "Tuta",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15861",
+    "Nombre": "Ventaquemada",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15180",
+    "Nombre": "Chiscas",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15223",
+    "Nombre": "Cubara",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15244",
+    "Nombre": "El Cocuy",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15248",
+    "Nombre": "El Espino",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15317",
+    "Nombre": "Guacamayas",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15332",
+    "Nombre": "Güican",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15522",
+    "Nombre": "Panqueba",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15377",
+    "Nombre": "Labranzagrande",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15518",
+    "Nombre": "Pajarito",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15533",
+    "Nombre": "Paya",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15550",
+    "Nombre": "Pisba",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15090",
+    "Nombre": "Berbeo",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15135",
+    "Nombre": "Campohermoso",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15455",
+    "Nombre": "Miraflores",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15514",
+    "Nombre": "Paez",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15660",
+    "Nombre": "San Eduardo",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15897",
+    "Nombre": "Zetaquira",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15104",
+    "Nombre": "Boyaca",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15189",
+    "Nombre": "Cienega",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15367",
+    "Nombre": "Jenesano",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15494",
+    "Nombre": "Nuevo Colon",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15599",
+    "Nombre": "Ramiriqui",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15621",
+    "Nombre": "Rondon",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15804",
+    "Nombre": "Tibana",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15835",
+    "Nombre": "Turmeque",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15842",
+    "Nombre": "Umbita",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15879",
+    "Nombre": "Viracacha",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15172",
+    "Nombre": "Chinavita",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15299",
+    "Nombre": "Garagoa",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15425",
+    "Nombre": "Macanal",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15511",
+    "Nombre": "Pachavita",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15667",
+    "Nombre": "San Luis De Gaceno",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15690",
+    "Nombre": "Santa Maria",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15097",
+    "Nombre": "Boavita",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15218",
+    "Nombre": "Covarachia",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15403",
+    "Nombre": "La Uvita",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15673",
+    "Nombre": "San Mateo",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15720",
+    "Nombre": "Sativanorte",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15723",
+    "Nombre": "Sativasur",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15753",
+    "Nombre": "Soata",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15774",
+    "Nombre": "Susacon",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15810",
+    "Nombre": "Tipacoque",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15106",
+    "Nombre": "Briceño",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15109",
+    "Nombre": "Buenavista",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15131",
+    "Nombre": "Caldas",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15176",
+    "Nombre": "Chiquinquira",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15212",
+    "Nombre": "Coper",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15401",
+    "Nombre": "La Victoria",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15442",
+    "Nombre": "Maripi",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15480",
+    "Nombre": "Muzo",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15507",
+    "Nombre": "Otanche",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15531",
+    "Nombre": "Pauna",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15572",
+    "Nombre": "Puerto Boyaca",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15580",
+    "Nombre": "Quipama",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15632",
+    "Nombre": "Saboya",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15676",
+    "Nombre": "San Miguel De Sema",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15681",
+    "Nombre": "San Pablo Borbur",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15832",
+    "Nombre": "Tunungua",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15022",
+    "Nombre": "Almeida",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15236",
+    "Nombre": "Chivor",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15322",
+    "Nombre": "Guateque",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15325",
+    "Nombre": "Guayata",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15380",
+    "Nombre": "La Capilla",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15761",
+    "Nombre": "Somondoco",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15778",
+    "Nombre": "Sutatenza",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15798",
+    "Nombre": "Tenza",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15051",
+    "Nombre": "Arcabuco",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15185",
+    "Nombre": "Chitaraque",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15293",
+    "Nombre": "Gachantiva",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15469",
+    "Nombre": "Moniquira",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15600",
+    "Nombre": "Raquira",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15638",
+    "Nombre": "Sachica",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15664",
+    "Nombre": "San Jose De Pare",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15696",
+    "Nombre": "Santa Sofia",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15686",
+    "Nombre": "Santana",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15776",
+    "Nombre": "Sutamarchan",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15808",
+    "Nombre": "Tinjaca",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15816",
+    "Nombre": "Togüi",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15407",
+    "Nombre": "Villa De Leyva",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15047",
+    "Nombre": "Aquitania",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15226",
+    "Nombre": "Cuitiva",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15272",
+    "Nombre": "Firavitoba",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15296",
+    "Nombre": "Gameza",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15362",
+    "Nombre": "Iza",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15464",
+    "Nombre": "Mongua",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15466",
+    "Nombre": "Mongui",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15491",
+    "Nombre": "Nobsa",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15542",
+    "Nombre": "Pesca",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15759",
+    "Nombre": "Sogamoso",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15806",
+    "Nombre": "Tibasosa",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15820",
+    "Nombre": "Topaga",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15822",
+    "Nombre": "Tota",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15087",
+    "Nombre": "Belen",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15114",
+    "Nombre": "Busbanza",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15162",
+    "Nombre": "Cerinza",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15215",
+    "Nombre": "Corrales",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15238",
+    "Nombre": "Duitama",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15276",
+    "Nombre": "Floresta",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15516",
+    "Nombre": "Paipa",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15693",
+    "Nombre": "San Rosa Viterbo",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15839",
+    "Nombre": "Tutaza",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15092",
+    "Nombre": "Beteitiva",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15183",
+    "Nombre": "Chita",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15368",
+    "Nombre": "Jerico",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15537",
+    "Nombre": "Paz De Rio",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15757",
+    "Nombre": "Socha",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15755",
+    "Nombre": "Socota",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "15790",
+    "Nombre": "Tasco",
+    "NOMBRE_DEPTO": "BOYACÁ",
+    "DANE_DEPTO": "15",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17272",
+    "Nombre": "Filadelfia",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17388",
+    "Nombre": "La Merced",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17442",
+    "Nombre": "Marmato",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17614",
+    "Nombre": "Riosucio",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17777",
+    "Nombre": "Supia",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17433",
+    "Nombre": "Manzanares",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17444",
+    "Nombre": "Marquetalia",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17446",
+    "Nombre": "Marulanda",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17541",
+    "Nombre": "Pensilvania",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17042",
+    "Nombre": "Anserma",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17088",
+    "Nombre": "Belalcazar",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17616",
+    "Nombre": "Risaralda",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17665",
+    "Nombre": "San Jose",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17877",
+    "Nombre": "Viterbo",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17174",
+    "Nombre": "Chinchina",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17001",
+    "Nombre": "Manizales",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17486",
+    "Nombre": "Neira",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17524",
+    "Nombre": "Palestina",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17873",
+    "Nombre": "Villamaria",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17013",
+    "Nombre": "Aguadas",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17050",
+    "Nombre": "Aranzazu",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17513",
+    "Nombre": "Pacora",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17653",
+    "Nombre": "Salamina",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17380",
+    "Nombre": "La Dorada",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17495",
+    "Nombre": "Norcasia",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17662",
+    "Nombre": "Samana",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "17867",
+    "Nombre": "Victoria",
+    "NOMBRE_DEPTO": "CALDAS",
+    "DANE_DEPTO": "17",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18029",
+    "Nombre": "Albania",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18094",
+    "Nombre": "Belen De Los Andaquies",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18150",
+    "Nombre": "Cartagena Del Chaira",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18205",
+    "Nombre": "Currillo",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18247",
+    "Nombre": "El Doncello",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18256",
+    "Nombre": "El Paujil",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18001",
+    "Nombre": "Florencia",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18410",
+    "Nombre": "La Montañita",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18460",
+    "Nombre": "Milan",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18479",
+    "Nombre": "Morelia",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18592",
+    "Nombre": "Puerto Rico",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18610",
+    "Nombre": "San Jose Del Fragua",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18753",
+    "Nombre": "San Vicente Del Caguan",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18756",
+    "Nombre": "Solano",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18785",
+    "Nombre": "Solita",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "18860",
+    "Nombre": "Valparaiso",
+    "NOMBRE_DEPTO": "CAQUETÁ",
+    "DANE_DEPTO": "18",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85010",
+    "Nombre": "Aguazul",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85015",
+    "Nombre": "Chameza",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85125",
+    "Nombre": "Hato Corozal",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85136",
+    "Nombre": "La Salina",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85139",
+    "Nombre": "Mani",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85162",
+    "Nombre": "Monterrey",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85225",
+    "Nombre": "Nunchia",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85230",
+    "Nombre": "Orocue",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85250",
+    "Nombre": "Paz De Ariporo",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85263",
+    "Nombre": "Pore",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85279",
+    "Nombre": "Recetor",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85300",
+    "Nombre": "Sabanalarga",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85315",
+    "Nombre": "Sacama",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85325",
+    "Nombre": "San Luis De Palenque",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85400",
+    "Nombre": "Tamara",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85410",
+    "Nombre": "Tauramena",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85430",
+    "Nombre": "Trinidad",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85440",
+    "Nombre": "Villanueva",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "85001",
+    "Nombre": "Yopal",
+    "NOMBRE_DEPTO": "CASANARE",
+    "DANE_DEPTO": "85",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19130",
+    "Nombre": "Cajibio",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19256",
+    "Nombre": "El Tambo",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19392",
+    "Nombre": "La Sierra",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19473",
+    "Nombre": "Morales",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19548",
+    "Nombre": "Piendamo",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19001",
+    "Nombre": "Popayan",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19622",
+    "Nombre": "Rosas",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19760",
+    "Nombre": "Sotara",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19807",
+    "Nombre": "Timbio",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19110",
+    "Nombre": "Buenos Aires",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19142",
+    "Nombre": "Caloto",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19212",
+    "Nombre": "Corinto",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19455",
+    "Nombre": "Miranda",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19513",
+    "Nombre": "Padilla",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19573",
+    "Nombre": "Puerto Tejada",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19698",
+    "Nombre": "Santander De Quilichao",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19780",
+    "Nombre": "Suarez",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19845",
+    "Nombre": "Villa Rica",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19318",
+    "Nombre": "Guapi",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19418",
+    "Nombre": "Lopez",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19809",
+    "Nombre": "Timbiqui",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19137",
+    "Nombre": "Caldono",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19355",
+    "Nombre": "Inza",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19364",
+    "Nombre": "Jambalo",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19517",
+    "Nombre": "Paez",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19585",
+    "Nombre": "Purace",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19743",
+    "Nombre": "Silvia",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19821",
+    "Nombre": "Toribio",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19824",
+    "Nombre": "Totoro",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19022",
+    "Nombre": "Almaguer",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19050",
+    "Nombre": "Argelia",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19075",
+    "Nombre": "Balboa",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19100",
+    "Nombre": "Bolivar",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19290",
+    "Nombre": "Florencia",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19397",
+    "Nombre": "La Vega",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19450",
+    "Nombre": "Mercaderes",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19532",
+    "Nombre": "Patia",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19533",
+    "Nombre": "Piamonte",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19693",
+    "Nombre": "San Sebastian",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19701",
+    "Nombre": "Santa Rosa",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "19785",
+    "Nombre": "Sucre",
+    "NOMBRE_DEPTO": "CAUCA",
+    "DANE_DEPTO": "19",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20045",
+    "Nombre": "Becerril",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20175",
+    "Nombre": "Chimichagua",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20178",
+    "Nombre": "Chiriguana",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20228",
+    "Nombre": "Curumani",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20400",
+    "Nombre": "La Jagua De Ibirico",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20517",
+    "Nombre": "Pailitas",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20787",
+    "Nombre": "Tamalameque",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20032",
+    "Nombre": "Astrea",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20060",
+    "Nombre": "Bosconia",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20238",
+    "Nombre": "El Copey",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20250",
+    "Nombre": "El Paso",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20013",
+    "Nombre": "Agustin Codazzi",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20621",
+    "Nombre": "La Paz",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20443",
+    "Nombre": "Manaure",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20570",
+    "Nombre": "Pueblo Bello",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20750",
+    "Nombre": "San Diego",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20001",
+    "Nombre": "Valledupar",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20011",
+    "Nombre": "Aguachica",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20295",
+    "Nombre": "Gamarra",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20310",
+    "Nombre": "Gonzalez",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20383",
+    "Nombre": "La Gloria",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20550",
+    "Nombre": "Pelaya",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20614",
+    "Nombre": "Rio De Oro",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20710",
+    "Nombre": "San Alberto",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "20770",
+    "Nombre": "San Martin",
+    "NOMBRE_DEPTO": "CESAR",
+    "DANE_DEPTO": "20",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27050",
+    "Nombre": "Atrato",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27073",
+    "Nombre": "Bagado",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27099",
+    "Nombre": "Bojaya",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27245",
+    "Nombre": "El Carmen De Atrato",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27413",
+    "Nombre": "Lloro",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27425",
+    "Nombre": "Medio Atrato",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27001",
+    "Nombre": "Quibdo",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27600",
+    "Nombre": "Rio Quito",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27006",
+    "Nombre": "Acandi",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27086",
+    "Nombre": "Belen De Bajira",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27150",
+    "Nombre": "Carmen Del Darien",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27615",
+    "Nombre": "Riosucio",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27800",
+    "Nombre": "Unguia",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27075",
+    "Nombre": "Bahia Solano",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27372",
+    "Nombre": "Jurado",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27495",
+    "Nombre": "Nuqui",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27025",
+    "Nombre": "Alto Baudo",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27077",
+    "Nombre": "Bajo Baudo",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27250",
+    "Nombre": "El Litoral Del San Juan",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27430",
+    "Nombre": "Medio Baudo",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27135",
+    "Nombre": "Canton De San Pablo",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27160",
+    "Nombre": "Certegui",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27205",
+    "Nombre": "Condoto",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27361",
+    "Nombre": "Itsmina",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27450",
+    "Nombre": "Medio San Juan",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27491",
+    "Nombre": "Novita",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27580",
+    "Nombre": "Rio Frio",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27660",
+    "Nombre": "San Jose Del Palmar",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27745",
+    "Nombre": "Sipi",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27787",
+    "Nombre": "Tado",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "27810",
+    "Nombre": "Union Panamericana",
+    "NOMBRE_DEPTO": "CHOCÓ",
+    "DANE_DEPTO": "27",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23807",
+    "Nombre": "Tierralta",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23855",
+    "Nombre": "Valencia",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23168",
+    "Nombre": "Chima",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23300",
+    "Nombre": "Cotorra",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23417",
+    "Nombre": "Lorica",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23464",
+    "Nombre": "Momil",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23586",
+    "Nombre": "Purisima",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23001",
+    "Nombre": "Monteria",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23090",
+    "Nombre": "Canalete",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23419",
+    "Nombre": "Los Cordobas",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23500",
+    "Nombre": "Moñitos",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23574",
+    "Nombre": "Puerto Escondido",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23672",
+    "Nombre": "San Antero",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23675",
+    "Nombre": "San Bernardo Del Viento",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23182",
+    "Nombre": "Chinu",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23660",
+    "Nombre": "Sahagun",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23670",
+    "Nombre": "San Andres Sotavento",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23068",
+    "Nombre": "Ayapel",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23079",
+    "Nombre": "Buenavista",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23350",
+    "Nombre": "La Apartada",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23466",
+    "Nombre": "Montelibano",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23555",
+    "Nombre": "Planeta Rica",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23570",
+    "Nombre": "Pueblo Nuevo",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23580",
+    "Nombre": "Puerto Libertador",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23162",
+    "Nombre": "Cerete",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23189",
+    "Nombre": "Cienaga De Oro",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23678",
+    "Nombre": "San Carlos",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "23686",
+    "Nombre": "San Pelayo",
+    "NOMBRE_DEPTO": "CÓRDOBA",
+    "DANE_DEPTO": "23",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25183",
+    "Nombre": "Choconta",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25426",
+    "Nombre": "Macheta",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25436",
+    "Nombre": "Manta",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25736",
+    "Nombre": "Sesquile",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25772",
+    "Nombre": "Suesca",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25807",
+    "Nombre": "Tibirita",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25873",
+    "Nombre": "Villapinzon",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25001",
+    "Nombre": "Agua De Dios",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25307",
+    "Nombre": "Girardot",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25324",
+    "Nombre": "Guataqui",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25368",
+    "Nombre": "Jerusalen",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25483",
+    "Nombre": "Nariño",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25488",
+    "Nombre": "Nilo",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25612",
+    "Nombre": "Ricaurte",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25815",
+    "Nombre": "Tocaima",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25148",
+    "Nombre": "Caparrapi",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25320",
+    "Nombre": "Guaduas",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25572",
+    "Nombre": "Puerto Salgar",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25019",
+    "Nombre": "Alban",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25398",
+    "Nombre": "La Peña",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25402",
+    "Nombre": "La Vega",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25489",
+    "Nombre": "Nimaima",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25491",
+    "Nombre": "Nocaima",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25592",
+    "Nombre": "Quebradanegra",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25658",
+    "Nombre": "San Francisco",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25718",
+    "Nombre": "Sasaima",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25777",
+    "Nombre": "Supata",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25851",
+    "Nombre": "Útica",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25862",
+    "Nombre": "Vergara",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25875",
+    "Nombre": "Villeta",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25293",
+    "Nombre": "Gachala",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25297",
+    "Nombre": "Gacheta",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25299",
+    "Nombre": "Gama",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25322",
+    "Nombre": "Guasca",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25326",
+    "Nombre": "Guatavita",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25372",
+    "Nombre": "Junin",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25377",
+    "Nombre": "La Calera",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25839",
+    "Nombre": "Ubala",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25086",
+    "Nombre": "Beltran",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25095",
+    "Nombre": "Bituima",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25168",
+    "Nombre": "Chaguani",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25328",
+    "Nombre": "Guayabal De Siquima",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25580",
+    "Nombre": "Puli",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25662",
+    "Nombre": "San Juan De Rio Seco",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25867",
+    "Nombre": "Viani",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25438",
+    "Nombre": "Medina",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25530",
+    "Nombre": "Paratebueno",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25151",
+    "Nombre": "Caqueza",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25178",
+    "Nombre": "Chipaque",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25181",
+    "Nombre": "Choachi",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25279",
+    "Nombre": "Fomeque",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25281",
+    "Nombre": "Fosca",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25335",
+    "Nombre": "Guayabetal",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25339",
+    "Nombre": "Gutierrez",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25594",
+    "Nombre": "Quetame",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25841",
+    "Nombre": "Ubaque",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25845",
+    "Nombre": "Une",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25258",
+    "Nombre": "El Peñon",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25394",
+    "Nombre": "La Palma",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25513",
+    "Nombre": "Pacho",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25518",
+    "Nombre": "Paime",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25653",
+    "Nombre": "San Cayetano",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25823",
+    "Nombre": "Topaipi",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25871",
+    "Nombre": "Villagomez",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25885",
+    "Nombre": "Yacopi",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25126",
+    "Nombre": "Cajica",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25175",
+    "Nombre": "Chia",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25200",
+    "Nombre": "Cogua",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25295",
+    "Nombre": "Gachancipa",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25486",
+    "Nombre": "Nemocon",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25758",
+    "Nombre": "Sopo",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25785",
+    "Nombre": "Tabio",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25817",
+    "Nombre": "Tocancipa",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25899",
+    "Nombre": "Zipaquira",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25099",
+    "Nombre": "Bojaca",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25214",
+    "Nombre": "Cota",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25260",
+    "Nombre": "El Rosal",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25269",
+    "Nombre": "Facatativa",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25286",
+    "Nombre": "Funza",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25430",
+    "Nombre": "Madrid",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25473",
+    "Nombre": "Mosquera",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25769",
+    "Nombre": "Subachoque",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25799",
+    "Nombre": "Tenjo",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25898",
+    "Nombre": "Zipacon",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25740",
+    "Nombre": "Sibate",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25754",
+    "Nombre": "Soacha",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25053",
+    "Nombre": "Arbelaez",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25120",
+    "Nombre": "Cabrera",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25290",
+    "Nombre": "Fusagasuga",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25312",
+    "Nombre": "Granada",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25524",
+    "Nombre": "Pandi",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25535",
+    "Nombre": "Pasca",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25649",
+    "Nombre": "San Bernardo",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25743",
+    "Nombre": "Silvania",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25805",
+    "Nombre": "Tibacuy",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25506",
+    "Nombre": "Venecia",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25035",
+    "Nombre": "Anapoima",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25040",
+    "Nombre": "Anolaima",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25599",
+    "Nombre": "Apulo",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25123",
+    "Nombre": "Cachipay",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25245",
+    "Nombre": "El Colegio",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25386",
+    "Nombre": "La Mesa",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25596",
+    "Nombre": "Quipile",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25645",
+    "Nombre": "San Antonio De Tequendama",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25797",
+    "Nombre": "Tena",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25878",
+    "Nombre": "Viota",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25154",
+    "Nombre": "Carmen De Carupa",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25224",
+    "Nombre": "Cucunuba",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25288",
+    "Nombre": "Fuquene",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25317",
+    "Nombre": "Guacheta",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25407",
+    "Nombre": "Lenguazaque",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25745",
+    "Nombre": "Simijaca",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25779",
+    "Nombre": "Susa",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25781",
+    "Nombre": "Sutatausa",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25793",
+    "Nombre": "Tausa",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "25843",
+    "Nombre": "Ubate",
+    "NOMBRE_DEPTO": "CUNDINAMARCA",
+    "DANE_DEPTO": "25",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "94343",
+    "Nombre": "Barranco Mina",
+    "NOMBRE_DEPTO": "GUAINÍA",
+    "DANE_DEPTO": "94",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "94886",
+    "Nombre": "Cacahual",
+    "NOMBRE_DEPTO": "GUAINÍA",
+    "DANE_DEPTO": "94",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "94001",
+    "Nombre": "Inirida",
+    "NOMBRE_DEPTO": "GUAINÍA",
+    "DANE_DEPTO": "94",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "94885",
+    "Nombre": "La Guadalupe",
+    "NOMBRE_DEPTO": "GUAINÍA",
+    "DANE_DEPTO": "94",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "94663",
+    "Nombre": "Mapiripan",
+    "NOMBRE_DEPTO": "GUAINÍA",
+    "DANE_DEPTO": "94",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "94888",
+    "Nombre": "Morichal",
+    "NOMBRE_DEPTO": "GUAINÍA",
+    "DANE_DEPTO": "94",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "94887",
+    "Nombre": "Pana Pana",
+    "NOMBRE_DEPTO": "GUAINÍA",
+    "DANE_DEPTO": "94",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "94884",
+    "Nombre": "Puerto Colombia",
+    "NOMBRE_DEPTO": "GUAINÍA",
+    "DANE_DEPTO": "94",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "94883",
+    "Nombre": "San Felipe",
+    "NOMBRE_DEPTO": "GUAINÍA",
+    "DANE_DEPTO": "94",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "95015",
+    "Nombre": "Calamar",
+    "NOMBRE_DEPTO": "GUAVIARE",
+    "DANE_DEPTO": "95",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "95025",
+    "Nombre": "El Retorno",
+    "NOMBRE_DEPTO": "GUAVIARE",
+    "DANE_DEPTO": "95",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "95200",
+    "Nombre": "Miraflores",
+    "NOMBRE_DEPTO": "GUAVIARE",
+    "DANE_DEPTO": "95",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "95001",
+    "Nombre": "San Jose Del Guaviare",
+    "NOMBRE_DEPTO": "GUAVIARE",
+    "DANE_DEPTO": "95",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41013",
+    "Nombre": "Agrado",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41026",
+    "Nombre": "Altamira",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41298",
+    "Nombre": "Garzon",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41306",
+    "Nombre": "Gigante",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41319",
+    "Nombre": "Guadalupe",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41548",
+    "Nombre": "Pital",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41770",
+    "Nombre": "Suaza",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41791",
+    "Nombre": "Tarqui",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41016",
+    "Nombre": "Aipe",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41020",
+    "Nombre": "Algeciras",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41078",
+    "Nombre": "Baraya",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41132",
+    "Nombre": "Campoalegre",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41206",
+    "Nombre": "Colombia",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41349",
+    "Nombre": "Hobo",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41357",
+    "Nombre": "Iquira",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41001",
+    "Nombre": "Neiva",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41524",
+    "Nombre": "Palermo",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41615",
+    "Nombre": "Rivera",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41676",
+    "Nombre": "Santa Maria",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41799",
+    "Nombre": "Tello",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41801",
+    "Nombre": "Teruel",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41872",
+    "Nombre": "Villavieja",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41885",
+    "Nombre": "Yaguara",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41378",
+    "Nombre": "La Argentina",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41396",
+    "Nombre": "La Plata",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41483",
+    "Nombre": "Nataga",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41518",
+    "Nombre": "Paicol",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41797",
+    "Nombre": "Tesalia",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41006",
+    "Nombre": "Acevedo",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41244",
+    "Nombre": "Elias",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41359",
+    "Nombre": "Isnos",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41503",
+    "Nombre": "Oporapa",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41530",
+    "Nombre": "Palestina",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41551",
+    "Nombre": "Pitalito",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41660",
+    "Nombre": "Saladoblanco",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41668",
+    "Nombre": "San Agustin",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "41807",
+    "Nombre": "Timana",
+    "NOMBRE_DEPTO": "HUILA",
+    "DANE_DEPTO": "41",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44035",
+    "Nombre": "Albania",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44090",
+    "Nombre": "Dibulla",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44430",
+    "Nombre": "Maicao",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44560",
+    "Nombre": "Manaure",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44001",
+    "Nombre": "Riohacha",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44847",
+    "Nombre": "Uribia",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44078",
+    "Nombre": "Barrancas",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44098",
+    "Nombre": "Distraccion",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44110",
+    "Nombre": "El Molino",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44279",
+    "Nombre": "Fonseca",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44378",
+    "Nombre": "Hatonuevo",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44420",
+    "Nombre": "La Jagua Del Pilar",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44650",
+    "Nombre": "San Juan Del Cesar",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44855",
+    "Nombre": "Urumita",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "44874",
+    "Nombre": "Villanueva",
+    "NOMBRE_DEPTO": "LA GUAJIRA",
+    "DANE_DEPTO": "44",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47058",
+    "Nombre": "Ariguani",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47170",
+    "Nombre": "Chibolo",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47460",
+    "Nombre": "Nueva Granada",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47555",
+    "Nombre": "Plato",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47660",
+    "Nombre": "Sabanas De San Angel",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47798",
+    "Nombre": "Tenerife",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47030",
+    "Nombre": "Algarrobo",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47053",
+    "Nombre": "Aracataca",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47189",
+    "Nombre": "Cienaga",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47268",
+    "Nombre": "El Reten",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47288",
+    "Nombre": "Fundacion",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47570",
+    "Nombre": "Pueblo Viejo",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47980",
+    "Nombre": "Zona Bananera",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47161",
+    "Nombre": "Cerro San Antonio",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47205",
+    "Nombre": "Concordia",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47258",
+    "Nombre": "El Piñon",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47541",
+    "Nombre": "Pedraza",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47551",
+    "Nombre": "Pivijay",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47605",
+    "Nombre": "Remolino",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47675",
+    "Nombre": "Salamina",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47745",
+    "Nombre": "Sitionuevo",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47960",
+    "Nombre": "Zapayan",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47001",
+    "Nombre": "Santa Marta",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47245",
+    "Nombre": "El Banco",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47318",
+    "Nombre": "Guamal",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47545",
+    "Nombre": "Pijiño Del Carmen",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47692",
+    "Nombre": "San Sebastian De Buenavista",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47703",
+    "Nombre": "San Zenon",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47707",
+    "Nombre": "Santa Ana",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "47720",
+    "Nombre": "Santa Barbara De Pinto",
+    "NOMBRE_DEPTO": "MAGDALENA",
+    "DANE_DEPTO": "47",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50251",
+    "Nombre": "El Castillo",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50270",
+    "Nombre": "El Dorado",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50287",
+    "Nombre": "Fuente De Oro",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50313",
+    "Nombre": "Granada",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50350",
+    "Nombre": "La Macarena",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50370",
+    "Nombre": "La Uribe",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50400",
+    "Nombre": "Lejanias",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50325",
+    "Nombre": "Mapiripan",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50330",
+    "Nombre": "Mesetas",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50450",
+    "Nombre": "Puerto Concordia",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50577",
+    "Nombre": "Puerto Lleras",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50590",
+    "Nombre": "Puerto Rico",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50683",
+    "Nombre": "San Juan De Arama",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50711",
+    "Nombre": "Vista Hermosa",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50001",
+    "Nombre": "Villavicencio",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50006",
+    "Nombre": "Acacias",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50110",
+    "Nombre": "Barranca De Upia",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50150",
+    "Nombre": "Castilla La Nueva",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50226",
+    "Nombre": "Cumaral",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50245",
+    "Nombre": "El Calvario",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50318",
+    "Nombre": "Guamal",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50606",
+    "Nombre": "Restrepo",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50680",
+    "Nombre": "San Carlos Guaroa",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50686",
+    "Nombre": "San Juanito",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50223",
+    "Nombre": "San Luis De Cubarral",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50689",
+    "Nombre": "San Martin",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50124",
+    "Nombre": "Cabuyaro",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50568",
+    "Nombre": "Puerto Gaitan",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "50573",
+    "Nombre": "Puerto Lopez",
+    "NOMBRE_DEPTO": "META",
+    "DANE_DEPTO": "50",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52240",
+    "Nombre": "Chachagui",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52207",
+    "Nombre": "Consaca",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52254",
+    "Nombre": "El Peñol",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52260",
+    "Nombre": "El Tambo",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52381",
+    "Nombre": "La Florida",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52480",
+    "Nombre": "Nariño",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52001",
+    "Nombre": "Pasto",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52683",
+    "Nombre": "Sandona",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52788",
+    "Nombre": "Tangua",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52885",
+    "Nombre": "Yacuanquer",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52036",
+    "Nombre": "Ancuya",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52320",
+    "Nombre": "Guaitarilla",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52385",
+    "Nombre": "La Llanada",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52411",
+    "Nombre": "Linares",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52418",
+    "Nombre": "Los Andes",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52435",
+    "Nombre": "Mallama",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52506",
+    "Nombre": "Ospina",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52565",
+    "Nombre": "Providencia",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52612",
+    "Nombre": "Ricaurte",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52678",
+    "Nombre": "Samaniego",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52699",
+    "Nombre": "Santa Cruz",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52720",
+    "Nombre": "Sapuyes",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52838",
+    "Nombre": "Tuquerres",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52079",
+    "Nombre": "Barbacoas",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52250",
+    "Nombre": "El Charco",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52520",
+    "Nombre": "Francisco Pizarro",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52390",
+    "Nombre": "La Tola",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52427",
+    "Nombre": "Magui",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52473",
+    "Nombre": "Mosquera",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52490",
+    "Nombre": "Olaya Herrera",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52621",
+    "Nombre": "Roberto Payan",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52696",
+    "Nombre": "Santa Barbara",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52835",
+    "Nombre": "Tumaco",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52019",
+    "Nombre": "Alban",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52051",
+    "Nombre": "Arboleda",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52083",
+    "Nombre": "Belen",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52110",
+    "Nombre": "Buesaco",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52203",
+    "Nombre": "Colon",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52233",
+    "Nombre": "Cumbitara",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52256",
+    "Nombre": "El Rosario",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52258",
+    "Nombre": "El Tablon De Gomez",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52378",
+    "Nombre": "La Cruz",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52399",
+    "Nombre": "La Union",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52405",
+    "Nombre": "Leiva",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52540",
+    "Nombre": "Policarpa",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52685",
+    "Nombre": "San Bernardo",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52687",
+    "Nombre": "San Lorenzo",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52693",
+    "Nombre": "San Pablo",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52694",
+    "Nombre": "San Pedro De Cartago",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52786",
+    "Nombre": "Taminango",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52022",
+    "Nombre": "Aldana",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52210",
+    "Nombre": "Contadero",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52215",
+    "Nombre": "Cordoba",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52224",
+    "Nombre": "Cuaspud",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52227",
+    "Nombre": "Cumbal",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52287",
+    "Nombre": "Funes",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52317",
+    "Nombre": "Guachucal",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52323",
+    "Nombre": "Gualmatan",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52352",
+    "Nombre": "Iles",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52354",
+    "Nombre": "Imues",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52356",
+    "Nombre": "Ipiales",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52560",
+    "Nombre": "Potosi",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52573",
+    "Nombre": "Puerres",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "52585",
+    "Nombre": "Pupiales",
+    "NOMBRE_DEPTO": "NARIÑO",
+    "DANE_DEPTO": "52",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54051",
+    "Nombre": "Arboledas",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54223",
+    "Nombre": "Cucutilla",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54313",
+    "Nombre": "Gramalote",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54418",
+    "Nombre": "Lourdes",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54660",
+    "Nombre": "Salazar",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54680",
+    "Nombre": "Santiago",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54871",
+    "Nombre": "Villa Caro",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54109",
+    "Nombre": "Bucarasica",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54250",
+    "Nombre": "El Tarra",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54720",
+    "Nombre": "Sardinata",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54810",
+    "Nombre": "Tibu",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54003",
+    "Nombre": "Abrego",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54128",
+    "Nombre": "Cachira",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54206",
+    "Nombre": "Convencion",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54245",
+    "Nombre": "El Carmen",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54344",
+    "Nombre": "Hacari",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54385",
+    "Nombre": "La Esperanza",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54398",
+    "Nombre": "La Playa",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54498",
+    "Nombre": "Ocaña",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54670",
+    "Nombre": "San Calixto",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54800",
+    "Nombre": "Teorama",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54001",
+    "Nombre": "Cucuta",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54261",
+    "Nombre": "El Zulia",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54405",
+    "Nombre": "Los Patios",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54553",
+    "Nombre": "Puerto Santander",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54673",
+    "Nombre": "San Cayetano",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54874",
+    "Nombre": "Villa Del Rosario",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54125",
+    "Nombre": "Cacota",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54174",
+    "Nombre": "Chitaga",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54480",
+    "Nombre": "Mutiscua",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54518",
+    "Nombre": "Pamplona",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54520",
+    "Nombre": "Pamplonita",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54743",
+    "Nombre": "Silos",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54099",
+    "Nombre": "Bochalema",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54172",
+    "Nombre": "Chinacota",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54239",
+    "Nombre": "Durania",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54347",
+    "Nombre": "Herran",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54377",
+    "Nombre": "Labateca",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54599",
+    "Nombre": "Ragonvalia",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "54820",
+    "Nombre": "Toledo",
+    "NOMBRE_DEPTO": "NORTE DE SANTANDER",
+    "DANE_DEPTO": "54",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86219",
+    "Nombre": "Colon",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86001",
+    "Nombre": "Mocoa",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86320",
+    "Nombre": "Orito",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86568",
+    "Nombre": "Puerto Asis",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86569",
+    "Nombre": "Puerto Caicedo",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86571",
+    "Nombre": "Puerto Guzman",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86573",
+    "Nombre": "Puerto Leguizamo",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86755",
+    "Nombre": "San Francisco",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86757",
+    "Nombre": "San Miguel",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86760",
+    "Nombre": "Santiago",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86749",
+    "Nombre": "Sibundoy",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86865",
+    "Nombre": "Valle Del Guamuez",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "86885",
+    "Nombre": "Villa Garzon",
+    "NOMBRE_DEPTO": "PUTUMAYO",
+    "DANE_DEPTO": "86",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63001",
+    "Nombre": "Armenia",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63111",
+    "Nombre": "Buenavista",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63130",
+    "Nombre": "Calarca",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63212",
+    "Nombre": "Cordoba",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63302",
+    "Nombre": "Genova",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63548",
+    "Nombre": "Pijao",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63272",
+    "Nombre": "Filandia",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63690",
+    "Nombre": "Salento",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63190",
+    "Nombre": "Circasia",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63401",
+    "Nombre": "La Tebaida",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63470",
+    "Nombre": "Montengro",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "63594",
+    "Nombre": "Quimbaya",
+    "NOMBRE_DEPTO": "QUINDÍO",
+    "DANE_DEPTO": "63",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66170",
+    "Nombre": "Dosquebradas",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66400",
+    "Nombre": "La Virginia",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66440",
+    "Nombre": "Marsella",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66001",
+    "Nombre": "Pereira",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66682",
+    "Nombre": "Santa Rosa De Cabal",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66045",
+    "Nombre": "Apia",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66075",
+    "Nombre": "Balboa",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66088",
+    "Nombre": "Belen De Umbria",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66318",
+    "Nombre": "Guatica",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66383",
+    "Nombre": "La Celia",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66594",
+    "Nombre": "Quinchia",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66687",
+    "Nombre": "Santuario",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66456",
+    "Nombre": "Mistrato",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "66572",
+    "Nombre": "Pueblo Rico",
+    "NOMBRE_DEPTO": "RISARALDA",
+    "DANE_DEPTO": "66",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68176",
+    "Nombre": "Chima",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68209",
+    "Nombre": "Confines",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68211",
+    "Nombre": "Contratacion",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68245",
+    "Nombre": "El Guacamayo",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68296",
+    "Nombre": "Galan",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68298",
+    "Nombre": "Gambita",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68320",
+    "Nombre": "Guadalupe",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68322",
+    "Nombre": "Guapota",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68344",
+    "Nombre": "Hato",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68500",
+    "Nombre": "Oiba",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68522",
+    "Nombre": "Palmar",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68524",
+    "Nombre": "Palmas Del Socorro",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68720",
+    "Nombre": "Santa Helena Del Opon",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68745",
+    "Nombre": "Simacota",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68755",
+    "Nombre": "Socorro",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68770",
+    "Nombre": "Suaita",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68147",
+    "Nombre": "Capitanejo",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68152",
+    "Nombre": "Carcasi",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68160",
+    "Nombre": "Cepita",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68162",
+    "Nombre": "Cerrito",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68207",
+    "Nombre": "Concepcion",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68266",
+    "Nombre": "Enciso",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68318",
+    "Nombre": "Guaca",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68425",
+    "Nombre": "Macaravita",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68432",
+    "Nombre": "Malaga",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68468",
+    "Nombre": "Molagavita",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68669",
+    "Nombre": "San Andres",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68684",
+    "Nombre": "San Jose De Miranda",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68686",
+    "Nombre": "San Miguel",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68051",
+    "Nombre": "Aratoca",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68079",
+    "Nombre": "Barichara",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68121",
+    "Nombre": "Cabrera",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68167",
+    "Nombre": "Charala",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68217",
+    "Nombre": "Coromoro",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68229",
+    "Nombre": "Curiti",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68264",
+    "Nombre": "Encino",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68370",
+    "Nombre": "Jordan",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68464",
+    "Nombre": "Mogotes",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68498",
+    "Nombre": "Ocamonte",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68502",
+    "Nombre": "Onzaga",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68533",
+    "Nombre": "Paramo",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68549",
+    "Nombre": "Pinchote",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68679",
+    "Nombre": "San Gil",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68682",
+    "Nombre": "San Joaquin",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68855",
+    "Nombre": "Valle De San Jose",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68872",
+    "Nombre": "Villanueva",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68081",
+    "Nombre": "Barrancabermeja",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68092",
+    "Nombre": "Betulia",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68235",
+    "Nombre": "El Carmen De Chucuri",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68575",
+    "Nombre": "Puerto Wilches",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68655",
+    "Nombre": "Sabana De Torres",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68689",
+    "Nombre": "San Vicente De Chucuri",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68895",
+    "Nombre": "Zapatoca",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68001",
+    "Nombre": "Bucaramanga",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68132",
+    "Nombre": "California",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68169",
+    "Nombre": "Charta",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68255",
+    "Nombre": "El Playon",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68276",
+    "Nombre": "Floridablanca",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68307",
+    "Nombre": "Giron",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68406",
+    "Nombre": "Lebrija",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68418",
+    "Nombre": "Los Santos",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68444",
+    "Nombre": "Matanza",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68547",
+    "Nombre": "Piedecuesta",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68615",
+    "Nombre": "Rionegro",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68705",
+    "Nombre": "Santa Barbara",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68780",
+    "Nombre": "Surata",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68820",
+    "Nombre": "Tona",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68867",
+    "Nombre": "Vetas",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68013",
+    "Nombre": "Aguada",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68020",
+    "Nombre": "Albania",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68077",
+    "Nombre": "Barbosa",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68101",
+    "Nombre": "Bolivar",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68179",
+    "Nombre": "Chipata",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68190",
+    "Nombre": "Cimitarra",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68250",
+    "Nombre": "El Peñon",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68271",
+    "Nombre": "Florian",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68324",
+    "Nombre": "Guavata",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68327",
+    "Nombre": "Guepsa",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68368",
+    "Nombre": "Jesus Maria",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68377",
+    "Nombre": "La Belleza",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68397",
+    "Nombre": "La Paz",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68385",
+    "Nombre": "Landazuri",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68572",
+    "Nombre": "Puente Nacional",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68573",
+    "Nombre": "Puerto Parra",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68673",
+    "Nombre": "San Benito",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68773",
+    "Nombre": "Sucre",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "68861",
+    "Nombre": "Velez",
+    "NOMBRE_DEPTO": "SANTANDER",
+    "DANE_DEPTO": "68",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70265",
+    "Nombre": "Guaranda",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70429",
+    "Nombre": "Majagual",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70771",
+    "Nombre": "Sucre",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70230",
+    "Nombre": "Chalan",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70204",
+    "Nombre": "Coloso",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70473",
+    "Nombre": "Morroa",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70508",
+    "Nombre": "Ovejas",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70001",
+    "Nombre": "Sincelejo",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70221",
+    "Nombre": "Coveñas",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70523",
+    "Nombre": "Palmito",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70713",
+    "Nombre": "San Onofre",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70820",
+    "Nombre": "Santiago De Tolu",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70823",
+    "Nombre": "Tolu Viejo",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70110",
+    "Nombre": "Buenavista",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70215",
+    "Nombre": "Corozal",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70233",
+    "Nombre": "El Roble",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70235",
+    "Nombre": "Galeras",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70418",
+    "Nombre": "Los Palmitos",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70670",
+    "Nombre": "Sampues",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70702",
+    "Nombre": "San Juan Betulia",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70717",
+    "Nombre": "San Pedro",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70742",
+    "Nombre": "Since",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70124",
+    "Nombre": "Caimito",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70400",
+    "Nombre": "La Union",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70678",
+    "Nombre": "San Benito Abad",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "70708",
+    "Nombre": "San Marcos",
+    "NOMBRE_DEPTO": "SUCRE",
+    "DANE_DEPTO": "70",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73030",
+    "Nombre": "Ambalema",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73055",
+    "Nombre": "Armero",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73270",
+    "Nombre": "Falan",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73283",
+    "Nombre": "Fresno",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73349",
+    "Nombre": "Honda",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73443",
+    "Nombre": "Mariquita",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73520",
+    "Nombre": "Palocabildo",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73148",
+    "Nombre": "Carmen De Apicala",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73226",
+    "Nombre": "Cunday",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73352",
+    "Nombre": "Icononzo",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73449",
+    "Nombre": "Melgar",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73873",
+    "Nombre": "Villarrica",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73067",
+    "Nombre": "Ataco",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73168",
+    "Nombre": "Chaparral",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73217",
+    "Nombre": "Coyaima",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73483",
+    "Nombre": "Natagaima",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73504",
+    "Nombre": "Ortega",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73555",
+    "Nombre": "Planadas",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73616",
+    "Nombre": "Rioblanco",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73622",
+    "Nombre": "Roncesvalles",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73675",
+    "Nombre": "San Antonio",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73026",
+    "Nombre": "Alvarado",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73043",
+    "Nombre": "Anzoategui",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73124",
+    "Nombre": "Cajamarca",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73200",
+    "Nombre": "Coello",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73268",
+    "Nombre": "Espinal",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73275",
+    "Nombre": "Flandes",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73001",
+    "Nombre": "Ibague",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73547",
+    "Nombre": "Piedras",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73624",
+    "Nombre": "Rovira",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73678",
+    "Nombre": "San Luis",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73854",
+    "Nombre": "Valle De San Juan",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73024",
+    "Nombre": "Alpujarra",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73236",
+    "Nombre": "Dolores",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73319",
+    "Nombre": "Guamo",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73563",
+    "Nombre": "Prado",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73585",
+    "Nombre": "Purificacion",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73671",
+    "Nombre": "Saldaña",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73770",
+    "Nombre": "Suarez",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73152",
+    "Nombre": "Casabianca",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73347",
+    "Nombre": "Herveo",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73408",
+    "Nombre": "Lerida",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73411",
+    "Nombre": "Libano",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73461",
+    "Nombre": "Murillo",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73686",
+    "Nombre": "Santa Isabel",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73861",
+    "Nombre": "Venadillo",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "73870",
+    "Nombre": "Villahermosa",
+    "NOMBRE_DEPTO": "TOLIMA",
+    "DANE_DEPTO": "73",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76036",
+    "Nombre": "Andalucia",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76111",
+    "Nombre": "Buga",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76113",
+    "Nombre": "Bugalagrande",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76126",
+    "Nombre": "Calima",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76248",
+    "Nombre": "El Cerrito",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76306",
+    "Nombre": "Ginebra",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76318",
+    "Nombre": "Guacari",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76606",
+    "Nombre": "Restrepo",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76616",
+    "Nombre": "Riofrio",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76670",
+    "Nombre": "San Pedro",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76828",
+    "Nombre": "Trujillo",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76834",
+    "Nombre": "Tulua",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76890",
+    "Nombre": "Yotoco",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76020",
+    "Nombre": "Alcala",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76041",
+    "Nombre": "Ansermanuevo",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76054",
+    "Nombre": "Argelia",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76100",
+    "Nombre": "Bolivar",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76147",
+    "Nombre": "Cartago",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76243",
+    "Nombre": "El Águila",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76246",
+    "Nombre": "El Cairo",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76250",
+    "Nombre": "El Dovio",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76400",
+    "Nombre": "La Union",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76403",
+    "Nombre": "La Victoria",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76497",
+    "Nombre": "Obando",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76622",
+    "Nombre": "Roldanillo",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76823",
+    "Nombre": "Toro",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76845",
+    "Nombre": "Ulloa",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76863",
+    "Nombre": "Versalles",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76895",
+    "Nombre": "Zarzal",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76109",
+    "Nombre": "Buenaventura",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76122",
+    "Nombre": "Caicedonia",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76736",
+    "Nombre": "Sevilla",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76001",
+    "Nombre": "Cali",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76130",
+    "Nombre": "Candelaria",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76233",
+    "Nombre": "Dagua",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76275",
+    "Nombre": "Florida",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76364",
+    "Nombre": "Jamundi",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76377",
+    "Nombre": "La Cumbre",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76520",
+    "Nombre": "Palmira",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76563",
+    "Nombre": "Pradera",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76869",
+    "Nombre": "Vijes",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "76892",
+    "Nombre": "Yumbo",
+    "NOMBRE_DEPTO": "VALLE DEL CAUCA",
+    "DANE_DEPTO": "76",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "97161",
+    "Nombre": "Caruru",
+    "NOMBRE_DEPTO": "VAUPÉS",
+    "DANE_DEPTO": "97",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "97001",
+    "Nombre": "Mitu",
+    "NOMBRE_DEPTO": "VAUPÉS",
+    "DANE_DEPTO": "97",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "97511",
+    "Nombre": "Pacoa",
+    "NOMBRE_DEPTO": "VAUPÉS",
+    "DANE_DEPTO": "97",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "97777",
+    "Nombre": "Papunahua",
+    "NOMBRE_DEPTO": "VAUPÉS",
+    "DANE_DEPTO": "97",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "97666",
+    "Nombre": "Taraira",
+    "NOMBRE_DEPTO": "VAUPÉS",
+    "DANE_DEPTO": "97",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "97889",
+    "Nombre": "Yavarate",
+    "NOMBRE_DEPTO": "VAUPÉS",
+    "DANE_DEPTO": "97",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "99773",
+    "Nombre": "Cumaribo",
+    "NOMBRE_DEPTO": "VICHADA",
+    "DANE_DEPTO": "99",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "99524",
+    "Nombre": "La Primavera",
+    "NOMBRE_DEPTO": "VICHADA",
+    "DANE_DEPTO": "99",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "99001",
+    "Nombre": "Puerto Carreño",
+    "NOMBRE_DEPTO": "VICHADA",
+    "DANE_DEPTO": "99",
+    "": ""
+  },
+  {
+    "CODIGO_MUNICIPIO": "99624",
+    "Nombre": "Santa Rosalia",
+    "NOMBRE_DEPTO": "VICHADA",
+    "DANE_DEPTO": "99",
+    "": ""
+  }
+]

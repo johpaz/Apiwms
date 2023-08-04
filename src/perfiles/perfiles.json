@@ -1,0 +1,70 @@
+{
+    "perfiles": [
+      {
+        "nombre": "Administrador",
+        "descripcion": "Perfil con acceso completo al sistema",
+        "permisos": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+          11, 12, 13, 14, 15, 16, 17, 18, 19,
+          20, 21, 22, 23, 24, 25, 26, 27, 28,
+          29, 30, 31, 32, 33, 34, 35, 36, 37
+        ]
+      },
+      {
+        "nombre": "UsuarioReportes",
+        "descripcion": "Perfil con acceso limitado al sistema",
+        "permisos": [10, 26]
+      },
+      {
+        "nombre": "Supervisor",
+        "descripcion": "Perfil con permisos para supervisar actividades",
+        "permisos": [24, 25]
+      },
+      {
+        "nombre": "Analista",
+        "descripcion": "Perfil con permisos para analizar datos y generar informes",
+        "permisos": [10, 26]
+      },
+      {
+        "nombre": "Coordinador",
+        "descripcion": "Perfil con acceso a tareas de coordinacion operativa",
+        "permisos": [15, 34]
+      },
+      {
+        "nombre": "Montacarguista",
+        "descripcion": "Perfil con acceso a tareas para almacenamiento y despacho de pallets y su reaprovisionamiento",
+        "permisos": [15]
+      },
+      {
+        "nombre": "Operador",
+        "descripcion": "Perfil con permisos para realizar operaciones y tareas específicas",
+        "permisos": []
+      },
+      {
+        "nombre": "Gerente",
+        "descripcion": "Perfil con permisos para tomar decisiones y gestionar recursos",
+        "permisos": [9, 18, 37]
+      },
+      {
+        "nombre": "Auditor",
+        "descripcion": "Perfil con permisos para realizar auditorías y evaluaciones",
+        "permisos": [25]
+      },
+      {
+        "nombre": "Desarrollador",
+        "descripcion": "Perfil con permisos para programar y desarrollar mejoras a la aplicación",
+        "permisos": [27]
+      },
+      {
+        "nombre": "Soporte Técnico",
+        "descripcion": "Perfil con permisos para brindar asistencia técnica y soporte a usuarios",
+        "permisos": [36]
+      },
+      {
+        "nombre": "Directivo",
+        "descripcion": "Perfil con acceso a reportes para toma de decisiones",
+        "permisos": [10, 26]
+      }
+    ]
+  }
+  

@@ -1,0 +1,225 @@
+{
+    "reportclientpost": [
+      {
+        "id": 1,
+        "cliente": {
+          "id": 1,
+          "name": "John Doe",
+          "email": "johndoe@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "male",
+          "description": "Cliente satisfecho y frecuente",
+          "rating": 4.5
+        },
+        "post": {
+          "id": 1,
+          "title": "Necesito diseñador gráfico",
+          "image": "http://placeimg.com/640/480/design",
+          "content": "Estoy buscando un diseñador gráfico para crear un logotipo moderno y creativo para mi nueva empresa. Necesito que el logotipo refleje la identidad de mi marca y transmita profesionalismo. Por favor, envíen ejemplos de trabajos anteriores. ¡Espero sus propuestas!"
+        }
+      },
+      {
+        "id": 2,
+        "cliente": {
+          "id": 2,
+          "name": "Jane Smith",
+          "email": "janesmith@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "female",
+          "description": "Cliente exigente en busca de calidad",
+          "rating": 4.8
+        },
+        "post": {
+          "id": 2,
+          "title": "Redacción de contenido web",
+          "image": "http://placeimg.com/640/480/content",
+          "content": "Necesito un redactor de contenido web para crear artículos de alta calidad sobre diversos temas. Los artículos deben ser originales, bien investigados y optimizados para SEO. Por favor, envíen ejemplos de su trabajo y tarifas por palabra."
+        }
+      },
+      {
+        "id": 3,
+        "cliente": {
+          "id": 3,
+          "name": "Michael Johnson",
+          "email": "michaeljohnson@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "male",
+          "description": "Cliente confiable y puntual en los pagos",
+          "rating": 4.2
+        },
+        "post": {
+          "id": 3,
+          "title": "Diseño de sitio web",
+          "image": "http://placeimg.com/640/480/webdesign",
+          "content": "Estoy buscando un diseñador web para crear un sitio moderno y atractivo para mi negocio. El sitio debe ser responsive y fácil de navegar. Por favor, proporcionen ejemplos de sitios web anteriores y su tarifa por proyecto."
+        }
+      },
+      {
+        "id": 4,
+        "cliente": {
+          "id": 4,
+          "name": "Emily Davis",
+          "email": "emilydavis@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "female",
+          "description": "Cliente entusiasta y colaborador",
+          "rating": 4.7
+        },
+        "post": {
+          "id": 4,
+          "title": "Fotografía de producto",
+          "image": "http://placeimg.com/640/480/photography",
+          "content": "Necesito un fotógrafo profesional para tomar fotografías de productos de mi tienda en línea. Las fotos deben ser de alta calidad y resaltar las características clave de los productos. Por favor, envíen ejemplos de su trabajo y su tarifa por sesión."
+        }
+      },
+          {
+            "id": 5,
+            "cliente": {
+              "id": 5,
+              "name": "Maria Rodriguez",
+              "email": "mariarodriguez@example.com",
+              "image": "http://placeimg.com/640/480",
+              "genre": "female",
+              "description": "Cliente creativo en busca de ideas innovadoras",
+              "rating": 4.9
+            },
+            "post": {
+              "id": 5,
+              "title": "Desarrollo de aplicación móvil",
+              "image": "http://placeimg.com/640/480/mobileapp",
+              "content": "Estoy buscando un desarrollador de aplicaciones móviles para crear una app innovadora para mi negocio. La app debe ser compatible con iOS y Android. Por favor, envíen ejemplos de aplicaciones anteriores y su tarifa por proyecto."
+            }
+          },
+          {
+            "id": 6,
+            "cliente": {
+              "id": 6,
+              "name": "David Thompson",
+              "email": "davidthompson@example.com",
+              "image": "http://placeimg.com/640/480",
+              "genre": "male",
+              "description": "Cliente comprometido con resultados excepcionales",
+              "rating": 4.7
+            },
+            "post": {
+              "id": 6,
+              "title": "Diseño de logotipo",
+              "image": "http://placeimg.com/640/480/logo",
+              "content": "Necesito un diseñador gráfico para crear un logotipo único y memorable para mi marca. El logotipo debe transmitir la esencia de mi negocio y ser reconocible. Por favor, envíen ejemplos de logotipos anteriores y su tarifa por proyecto."
+            }
+          },
+          {
+            "id": 7,
+            "cliente": {
+              "id": 7,
+              "name": "Alexandra Lee",
+              "email": "alexandralee@example.com",
+              "image": "http://placeimg.com/640/480",
+              "genre": "female",
+              "description": "Cliente entusiasta y apasionada",
+              "rating": 4.5
+            },
+            "post": {
+              "id": 7,
+              "title": "Desarrollo de tienda en línea",
+              "image": "http://placeimg.com/640/480/onlinestore",
+              "content": "Estoy buscando un desarrollador web para crear una tienda en línea para mi negocio. La tienda debe ser fácil de usar, segura y con un diseño atractivo. Por favor, envíen ejemplos de tiendas en línea anteriores y su tarifa por proyecto."
+            }
+          },
+          {
+            "id": 8,
+            "cliente": {
+              "id": 8,
+              "name": "Daniel Wilson",
+              "email": "danielwilson@example.com",
+              "image": "http://placeimg.com/640/480",
+              "genre": "male",
+              "description": "Cliente en busca de soluciones eficientes",
+              "rating": 4.4
+            },
+            "post": {
+              "id": 8,
+              "title": "Desarrollo de software a medida",
+              "image": "http://placeimg.com/640/480/software",
+              "content": "Necesito un equipo de desarrollo de software para crear un sistema personalizado para mi negocio. El software debe adaptarse a mis necesidades específicas y ser fácil de usar. Por favor, envíen ejemplos de proyectos anteriores y su tarifa por proyecto."
+            }
+          },
+          {
+                "id": 9,
+                "cliente": {
+                  "id": 9,
+                  "name": "Laura Martinez",
+                  "email": "lauramartinez@example.com",
+                  "image": "http://placeimg.com/640/480",
+                  "genre": "female",
+                  "description": "Cliente en busca de servicios de redacción",
+                  "rating": 4.8
+                },
+                "post": {
+                  "id": 9,
+                  "title": "Redacción de contenido web",
+                  "image": "http://placeimg.com/640/480/content",
+                  "content": "Estoy buscando un redactor de contenido web para escribir artículos originales y de calidad para mi blog. Los temas principales son estilo de vida, viajes y bienestar. Por favor, envíen ejemplos de artículos anteriores y su tarifa por palabra."
+                }
+              },
+              {
+                "id": 10,
+                "cliente": {
+                  "id": 10,
+                  "name": "Michael Davis",
+                  "email": "michaeldavis@example.com",
+                  "image": "http://placeimg.com/640/480",
+                  "genre": "male",
+                  "description": "Cliente interesado en servicios de fotografía",
+                  "rating": 4.6
+                },
+                "post": {
+                  "id": 10,
+                  "title": "Sesión de fotos para evento especial",
+                  "image": "http://placeimg.com/640/480/photography",
+                  "content": "Necesito un fotógrafo profesional para capturar los momentos especiales de un evento importante. Se requiere experiencia en fotografía de eventos y disponibilidad en la fecha indicada. Por favor, envíen ejemplos de trabajos anteriores y su tarifa por hora."
+                }
+              },
+              {
+                "id": 11,
+                "cliente": {
+                  "id": 11,
+                  "name": "Sophia Johnson",
+                  "email": "sophiajohnson@example.com",
+                  "image": "http://placeimg.com/640/480",
+                  "genre": "female",
+                  "description": "Cliente en busca de servicios de traducción",
+                  "rating": 4.7
+                },
+                "post": {
+                  "id": 11,
+                  "title": "Traducción de documentos legales",
+                  "image": "http://placeimg.com/640/480/translation",
+                  "content": "Necesito un traductor experto en documentos legales para traducir un contrato comercial. Se requiere experiencia en traducción jurídica y precisión en la terminología. Por favor, envíen ejemplos de trabajos anteriores y su tarifa por palabra."
+                }
+              },
+              {
+                "id": 12,
+                "cliente": {
+                  "id": 12,
+                  "name": "William Thompson",
+                  "email": "williamthompson@example.com",
+                  "image": "http://placeimg.com/640/480",
+                  "genre": "male",
+                  "description": "Cliente en busca de servicios de diseño gráfico",
+                  "rating": 4.9
+                },
+                "post": {
+                  "id": 12,
+                  "title": "Diseño de folletos promocionales",
+                  "image": "http://placeimg.com/640/480/brochure",
+                  "content": "Estoy buscando un diseñador gráfico para crear folletos promocionales para mi negocio. Los folletos deben ser atractivos, informativos y representar la identidad de la marca. Por favor, envíen ejemplos de diseños anteriores y su tarifa por proyecto."
+                }
+              }
+            ]
+          }
+          
+
+      
+      
+      

@@ -1,0 +1,144 @@
+{
+  "postprovider": [
+    {
+      "id": 1,
+      "provider_id": 7,
+      "occupation_id": 15,
+      "title": "Ofrezco mis servicios como Diseñador de moda",
+      "content": "Encuentra tu equilibrio interior a través del yoga y la meditación. Contáctame en Axel13@nearbpo.com para más información."
+    },
+    {
+      "id": 2,
+      "provider_id": 25,
+      "occupation_id": 32,
+      "title": "Ofrezco mis servicios como Redactor de contenido",
+      "content": "Las letras que transforman vidas: taller de escritura creativa. Contáctame en Victoria.Casares94@gmail.com para más información."
+    },
+    {
+      "id": 3,
+      "provider_id": 25,
+      "occupation_id": 40,
+      "title": "Ofrezco mis servicios como Especialista en marketing digital",
+      "content": "Un viaje épico a través de la historia del arte. Contáctame en Victoria.Casares94@gmail.com para más información."
+    },
+    {
+      "id": 4,
+      "provider_id": 2,
+      "occupation_id": 6,
+      "title": "Ofrezco mis servicios como Desarrollador de aplicaciones móviles",
+      "content": "Transforma tu hogar en un oasis de tranquilidad con el diseño de interiores. Contáctame en Lola64@yahoo.com para más información."
+    },
+    {
+      "id": 5,
+      "provider_id": 25,
+      "occupation_id": 32,
+      "title": "Ofrezco mis servicios como Redactor de contenido",
+      "content": "Sumérgete en la magia del teatro y déjate llevar por las emociones. Contáctame en Victoria.Casares94@gmail.com para más información."
+    },
+    {
+      "id": 6,
+      "provider_id": 22,
+      "occupation_id": 23,
+      "title": "Ofrezco mis servicios como Consultor de recursos humanos",
+      "content": "Descubre los secretos de la fotografía y captura momentos inolvidables. Contáctame en Guillermo_Olivera@yahoo.com para más información."
+    },
+    {
+      "id": 7,
+      "provider_id": 11,
+      "occupation_id": 8,
+      "title": "Ofrezco mis servicios como Ingeniero de redes",
+      "content": "La danza como expresión de libertad y movimiento. Contáctame en Yaretzi_Agosto26@corpfolder.com para más información."
+    },
+    {
+      "id": 8,
+      "provider_id": 28,
+      "occupation_id": 7,
+      "title": "Ofrezco mis servicios como Administrador de sistemas",
+      "content": "Alimenta tu mente con libros que despierten tu imaginación. Contáctame en Cristina_Narvez@nearbpo.com para más información."
+    },
+    {
+      "id": 9,
+      "provider_id": 46,
+      "occupation_id": 2,
+      "title": "Ofrezco mis servicios como Diseñador web",
+      "content": "Las letras que transforman vidas: taller de escritura creativa. Contáctame en Adela_Cotto27@yahoo.com para más información."
+    },
+    {
+      "id": 10,
+      "provider_id": 50,
+      "occupation_id": 32,
+      "title": "Ofrezco mis servicios como Redactor de contenido",
+      "content": "Descubre los secretos de la fotografía y captura momentos inolvidables. Contáctame en Patricio.Llamas4@hotmail.com para más información."
+    },
+    {
+      "id": 11,
+      "provider_id": 4,
+      "occupation_id": 46,
+      "title": "Ofrezco mis servicios como Bisutería",
+      "content": "Convierte tu jardín en un paraíso de colores y fragancias. Contáctame en ngela0@yahoo.com para más información."
+    },
+    {
+      "id": 12,
+      "provider_id": 39,
+      "occupation_id": 24,
+      "title": "Ofrezco mis servicios como Consultor de negocios",
+      "content": "Convierte tu jardín en un paraíso de colores y fragancias. Contáctame en Esteban_Pizarro@nearbpo.com para más información."
+    },
+    {
+      "id": 13,
+      "provider_id": 7,
+      "occupation_id": 10,
+      "title": "Ofrezco mis servicios como Especialista en inteligencia artificial",
+      "content": "Sumérgete en la magia del teatro y déjate llevar por las emociones. Contáctame en Axel13@nearbpo.com para más información."
+    },
+    {
+      "id": 14,
+      "provider_id": 38,
+      "occupation_id": 40,
+      "title": "Ofrezco mis servicios como Especialista en marketing digital",
+      "content": "Un viaje épico a través de la historia del arte. Contáctame en Yamileth.Lozano34@gmail.com para más información."
+    },
+    {
+      "id": 15,
+      "provider_id": 6,
+      "occupation_id": 17,
+      "title": "Ofrezco mis servicios como Escenógrafo",
+      "content": "Descubre los secretos de la fotografía y captura momentos inolvidables. Contáctame en Francisca65@nearbpo.com para más información."
+    },
+    {
+      "id": 16,
+      "provider_id": 49,
+      "occupation_id": 40,
+      "title": "Ofrezco mis servicios como Especialista en marketing digital",
+      "content": "Descubre el sabor auténtico de la cocina tradicional. Contáctame en Samuel_Njera@corpfolder.com para más información."
+    },
+    {
+      "id": 17,
+      "provider_id": 40,
+      "occupation_id": 28,
+      "title": "Ofrezco mis servicios como Consultor de calidad",
+      "content": "Transforma tu hogar en un oasis de tranquilidad con el diseño de interiores. Contáctame en Marilu82@hotmail.com para más información."
+    },
+    {
+      "id": 18,
+      "provider_id": 28,
+      "occupation_id": 3,
+      "title": "Ofrezco mis servicios como Especialista en SEO",
+      "content": "Convierte tu jardín en un paraíso de colores y fragancias. Contáctame en Cristina_Narvez@nearbpo.com para más información."
+    },
+    {
+      "id": 19,
+      "provider_id": 29,
+      "occupation_id": 25,
+      "title": "Ofrezco mis servicios como Consultor de estrategia",
+      "content": "Las letras que transforman vidas: taller de escritura creativa. Contáctame en DulceMara50@hotmail.com para más información."
+    },
+    {
+      "id": 20,
+      "provider_id": 14,
+      "occupation_id": 19,
+      "title": "Ofrezco mis servicios como Diseñador de interiores",
+      "content": "Descubre el sabor auténtico de la cocina tradicional. Contáctame en Maradelosngeles_Mata@nearbpo.com para más información."
+    }
+  ]
+}

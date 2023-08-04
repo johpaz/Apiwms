@@ -1,0 +1,154 @@
+[
+    {
+      "nombre": "Crear Usuario",
+      "descripcion": "Permite crear nuevos usuarios en el sistema"
+    },
+    {
+      "nombre": "Editar Usuario",
+      "descripcion": "Permite editar la información de un usuario existente"
+    },
+    {
+      "nombre": "Eliminar Usuario",
+      "descripcion": "Permite eliminar un usuario del sistema"
+    },
+    {
+      "nombre": "Ver Usuarios",
+      "descripcion": "Permite ver la lista de usuarios registrados en el sistema"
+    },
+    {
+      "nombre": "Crear Artículo",
+      "descripcion": "Permite crear nuevos artículos en el inventario"
+    },
+    {
+      "nombre": "Editar Artículo",
+      "descripcion": "Permite editar la información de un artículo existente"
+    },
+    {
+      "nombre": "Eliminar Artículo",
+      "descripcion": "Permite eliminar un artículo del inventario"
+    },
+    {
+      "nombre": "Ver Artículos",
+      "descripcion": "Permite ver la lista de artículos en el inventario"
+    },
+    {
+      "nombre": "Realizar Ventas",
+      "descripcion": "Permite realizar ventas y transacciones comerciales"
+    },
+    {
+      "nombre": "Generar Informes",
+      "descripcion": "Permite generar informes y reportes estadísticos"
+    },
+        {
+          "nombre": "Crear Pedido",
+          "descripcion": "Permite crear nuevos pedidos en el sistema"
+        },
+        {
+          "nombre": "Editar Pedido",
+          "descripcion": "Permite editar la información de un pedido existente"
+        },
+        {
+          "nombre": "Eliminar Pedido",
+          "descripcion": "Permite eliminar un pedido del sistema"
+        },
+        {
+          "nombre": "Ver Pedidos",
+          "descripcion": "Permite ver la lista de pedidos registrados en el sistema"
+        },
+        {
+          "nombre": "Gestionar Inventario",
+          "descripcion": "Permite realizar operaciones de gestión de inventario"
+        },
+        {
+          "nombre": "Asignar Permisos",
+          "descripcion": "Permite asignar permisos a usuarios y perfiles"
+        },
+        {
+          "nombre": "Administrar Almacenes",
+          "descripcion": "Permite administrar los almacenes y bodegas del sistema"
+        },
+        {
+          "nombre": "Realizar Pagos",
+          "descripcion": "Permite realizar pagos y transacciones financieras"
+        },
+        {
+          "nombre": "Acceder a Información Confidencial",
+          "descripcion": "Permite acceder a información confidencial y restringida"
+        },
+        
+            {
+              "nombre": "Crear Usuario",
+              "descripcion": "Permite crear nuevos usuarios en el sistema"
+            },
+            {
+              "nombre": "Editar Usuario",
+              "descripcion": "Permite editar la información de un usuario existente"
+            },
+            {
+              "nombre": "Eliminar Usuario",
+              "descripcion": "Permite eliminar un usuario del sistema"
+            },
+            {
+              "nombre": "Ver Usuarios",
+              "descripcion": "Permite ver la lista de usuarios registrados en el sistema"
+            },
+            {
+              "nombre": "Gestionar Roles",
+              "descripcion": "Permite asignar y revocar roles a los usuarios"
+            },
+            {
+              "nombre": "Realizar Auditorías",
+              "descripcion": "Permite realizar auditorías y revisiones de seguridad"
+            },
+            {
+              "nombre": "Generar Reportes",
+              "descripcion": "Permite generar y acceder a informes y reportes del sistema"
+            },
+            {
+              "nombre": "Administrar Configuraciones",
+              "descripcion": "Permite administrar las configuraciones y ajustes del sistema"
+            },
+            {
+              "nombre": "Acceder a Funcionalidades Avanzadas",
+              "descripcion": "Permite acceder a funciones avanzadas y privilegiadas del sistema"
+            },
+            
+                {
+                  "nombre": "Crear Producto",
+                  "descripcion": "Permite crear nuevos productos en el inventario"
+                },
+                {
+                  "nombre": "Editar Producto",
+                  "descripcion": "Permite editar la información de un producto existente"
+                },
+                {
+                  "nombre": "Eliminar Producto",
+                  "descripcion": "Permite eliminar un producto del inventario"
+                },
+                {
+                  "nombre": "Ver Inventario",
+                  "descripcion": "Permite ver el inventario y los niveles de stock"
+                },
+                {
+                  "nombre": "Realizar Ventas",
+                  "descripcion": "Permite realizar ventas y facturar a los clientes"
+                },
+                {
+                  "nombre": "Gestionar Pedidos",
+                  "descripcion": "Permite gestionar los pedidos de los clientes"
+                },
+                {
+                  "nombre": "Administrar Cuentas de Usuario",
+                  "descripcion": "Permite administrar las cuentas de usuario y sus permisos"
+                },
+                {
+                  "nombre": "Acceder a Información Financiera",
+                  "descripcion": "Permite acceder a información financiera y reportes"
+                },
+                {
+                  "nombre": "Gestionar Proyectos",
+                  "descripcion": "Permite gestionar proyectos y asignar tareas"
+                }
+             
+  ]
+  

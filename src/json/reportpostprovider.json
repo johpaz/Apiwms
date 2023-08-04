@@ -1,0 +1,282 @@
+{
+  "reportproviderpost": [
+    {
+      "id": 1,
+      "name": "Juan Gomez",
+      "email": "juan.gomez@example.com",
+      "image": "http://placeimg.com/640/480",
+      "genre": "female",
+      "years_exp": "5",
+      "categoria": {
+        "id": 3,
+        "name": "Construcción"
+      },
+      "profesion": {
+        "id": 12,
+        "name": "Arquitecto",
+        "description": "Diseña y planifica proyectos de construcción"
+      },
+      "post": {
+        "id": 1,
+        "name": "Programador Web Freelance",
+        "image": "http://placeimg.com/640/480/tech",
+        "content": "Ofrezco servicios de desarrollo web freelance. Experiencia en HTML, CSS, JavaScript y frameworks populares como React y Vue.js."
+      }
+    },
+    {
+      "id": 2,
+      "name": "Laura Sánchez",
+      "email": "laura.sanchez@example.com",
+      "image": "http://placeimg.com/640/480",
+      "genre": "female",
+      "years_exp": "4",
+      "categoria": {
+        "id": 1,
+        "name": "Tecnología"
+      },
+      "profesion": {
+        "id": 7,
+        "name": "Diseñador de UX/UI",
+        "description": "Crea interfaces de usuario intuitivas y atractivas"
+      },
+      "post": {
+        "id": 2,
+        "name": "Diseñador Gráfico Freelance",
+        "image": "http://placeimg.com/640/480/design",
+        "content": "Especializado en diseño gráfico, ofrezco servicios de creación de logotipos, banners, tarjetas de presentación y más. ¡Contáctame para discutir tu proyecto!"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Carlos Hernández",
+      "email": "carlos.hernandez@example.com",
+      "image": "http://placeimg.com/640/480",
+      "genre": "male",
+      "years_exp": "6",
+      "categoria": {
+        "id": 3,
+        "name": "Construcción"
+      },
+      "profesion": {
+        "id": 14,
+        "name": "Ingeniero civil",
+        "description": "Diseña y supervisa proyectos de construcción civil"
+      },
+      "post": {
+        "id": 3,
+        "name": "Traductor Freelance",
+        "image": "http://placeimg.com/640/480/translation",
+        "content": "Servicios de traducción en varios idiomas. Traducción de documentos, sitios web y contenido multimedia. Precisión y calidad garantizadas."
+      }
+    },
+    {
+      "id": 4,
+      "name": "Isabel Ríos",
+      "email": "isabel.rios@example.com",
+      "image": "http://placeimg.com/640/480",
+      "genre": "female",
+      "years_exp": "2",
+      "categoria": {
+        "id": 5,
+        "name": "Gastronomía"
+      },
+      "profesion": {
+        "id": 22,
+        "name": "Repostero",
+        "description": "Elabora deliciosos pasteles y postres"
+      },
+      "post": {
+        "id": 4,
+        "name": "Redactor de Contenidos Freelance",
+        "image": "http://placeimg.com/640/480/writing",
+        "content": "Experiencia en redacción de artículos, blogs, descripciones de productos y más. Ofrezco contenido de calidad adaptado a tus necesidades."
+      }
+    },
+    {
+          "id": 5,
+          "name": "Ana López",
+          "email": "ana.lopez@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "female",
+          "years_exp": "2",
+          "categoria": {
+            "id": 5,
+            "name": "Gastronomía"
+          },
+          "profesion": {
+            "id": 21,
+            "name": "Chef",
+            "description": "Prepara deliciosos platos y coordina equipos de cocina"
+          },
+          "post": {
+            "id": 5,
+            "name": "Experto en Marketing Digital Freelance",
+            "image": "http://placeimg.com/640/480/marketing",
+            "content": "Servicios de marketing digital para aumentar la visibilidad y el alcance de tu negocio. Estrategias de SEO, gestión de redes sociales y publicidad en línea."
+          }
+        },
+        {
+          "id": 7,
+          "name": "Carlos Hernández",
+          "email": "carlos.hernandez@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "male",
+          "years_exp": "6",
+          "categoria": {
+            "id": 3,
+            "name": "Construcción"
+          },
+          "profesion": {
+            "id": 14,
+            "name": "Ingeniero civil",
+            "description": "Diseña y supervisa proyectos de construcción civil"
+          },
+          "post": {
+            "id": 7,
+            "name": "Asistente Virtual Freelance",
+            "image": "http://placeimg.com/640/480/virtualassistant",
+            "content": "Asistencia administrativa y organizativa en línea. Manejo de correos electrónicos, gestión de calendarios y tareas administrativas."
+          }
+        },
+        {
+          "id": 8,
+          "name": "Laura Sánchez",
+          "email": "laura.sanchez@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "female",
+          "years_exp": "4",
+          "categoria": {
+            "id": 1,
+            "name": "Tecnología"
+          },
+          "profesion": {
+            "id": 7,
+            "name": "Diseñador de UX/UI",
+            "description": "Crea interfaces de usuario intuitivas y atractivas"
+          },
+          "post": {
+            "id": 8,
+            "name": "Consultor de Negocios Freelance",
+            "image": "http://placeimg.com/640/480/business",
+            "content": "Análisis y asesoramiento empresarial para optimizar procesos, aumentar la eficiencia y mejorar la rentabilidad. Consultoría personalizada para tu negocio."
+          }
+        },
+        {
+          "id": 10,
+          "name": "Isabel Ríos",
+          "email": "isabel.rios@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "female",
+          "years_exp": "2",
+          "categoria": {
+            "id": 5,
+            "name": "Gastronomía"
+          },
+          "profesion": {
+            "id": 22,
+            "name": "Repostero",
+            "description": "Elabora deliciosos pasteles y postres"
+          },
+          "post": {
+            "id": 10,
+            "name": "Desarrollador de Apps Móviles Freelance",
+            "image": "http://placeimg.com/640/480/mobileapp",
+            "content": "Creación de aplicaciones móviles personalizadas para iOS y Android. Experiencia en desarrollo nativo y frameworks como React Native."
+          }
+    },
+    {
+          "id": 17,
+          "name": "Diseñador de Moda Freelance",
+          "email": "diseñador.moda@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "male",
+          "years_exp": "8",
+          "categoria": {
+            "id": 4,
+            "name": "Diseño"
+          },
+          "profesion": {
+            "id": 18,
+            "name": "Diseñador gráfico",
+            "description": "Crea diseños visuales atractivos y comunicativos"
+          },
+          "post": {
+            "id": 17,
+            "name": "Diseñador de Moda Freelance",
+            "image": "http://placeimg.com/640/480/fashiondesign",
+            "content": "Creación de diseños de moda únicos y a medida. Diseño de prendas, ilustraciones y asesoramiento en tendencias para marcas y diseñadores independientes."
+          }
+        },
+        {
+          "id": 18,
+          "name": "Instructor de Fitness Freelance",
+          "email": "instructor.fitness@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "female",
+          "years_exp": "5",
+          "categoria": {
+            "id": 5,
+            "name": "Gastronomía"
+          },
+          "profesion": {
+            "id": 19,
+            "name": "Chef",
+            "description": "Prepara deliciosos platos y coordina equipos de cocina"
+          },
+          "post": {
+            "id": 18,
+            "name": "Instructor de Fitness Freelance",
+            "image": "http://placeimg.com/640/480/fitness",
+            "content": "Clases de fitness y entrenamientos personalizados para ayudarte a mantenerte en forma y alcanzar tus objetivos de salud. Motivación y apoyo garantizados."
+          }
+        },
+        {
+          "id": 19,
+          "name": "Consultor SEO Freelance",
+          "email": "consultor.seo@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "male",
+          "years_exp": "6",
+          "categoria": {
+            "id": 1,
+            "name": "Tecnología"
+          },
+          "profesion": {
+            "id": 20,
+            "name": "Desarrollador de Apps Móviles",
+            "description": "Creación de aplicaciones móviles para iOS y Android"
+          },
+          "post": {
+            "id": 19,
+            "name": "Consultor SEO Freelance",
+            "image": "http://placeimg.com/640/480/seo",
+            "content": "Optimización de motores de búsqueda para mejorar la visibilidad en línea de tu sitio web. Estrategias de SEO, análisis de palabras clave y más."
+          }
+        },
+        {
+          "id": 20,
+          "name": "Escritor de Contenido Técnico Freelance",
+          "email": "escritor.contenido@example.com",
+          "image": "http://placeimg.com/640/480",
+          "genre": "female",
+          "years_exp": "4",
+          "categoria": {
+            "id": 2,
+            "name": "Salud"
+          },
+          "profesion": {
+            "id": 21,
+            "name": "Psicólogo",
+            "description": "Profesional de la salud mental que ofrece terapia y consejería"
+          },
+          "post": {
+            "id": 20,
+            "name": "Escritor de Contenido Técnico Freelance",
+            "image": "http://placeimg.com/640/480/technicalwriting",
+            "content": "Redacción de contenido técnico y especializado. Artículos, manuales, guías y documentación técnica para empresas y profesionales del sector."
+          }
+        }
+    
+    
+  ]
+}
