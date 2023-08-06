@@ -9,9 +9,9 @@
     "esHabilitada": true,
     "almacenes": [
       {
-        "pasillos": 2,
-        "ubicacionesPorNivel": 3,
-        "niveles": 4,
+        "pasillos": 10,
+        "ubicacionesPorNivel": 30,
+        "niveles": 6,
         "profundidad": 2
       }
     ]
@@ -27,7 +27,7 @@
     "almacenes": [
       {
         "pasillos": 3,
-        "ubicacionesPorNivel": 4,
+        "ubicacionesPorNivel": 14,
         "niveles": 5,
         "profundidad": 1
       }
@@ -44,16 +44,11 @@
     "almacenes": [
       {
         "pasillos": 1,
-        "ubicacionesPorNivel": 5,
-        "niveles": 3,
-        "profundidad": 1
-      },
-      {
-        "pasillos": 2,
-        "ubicacionesPorNivel": 3,
-        "niveles": 3,
+        "ubicacionesPorNivel": 25,
+        "niveles": 6,
         "profundidad": 2
       }
+     
     ]
   },
   {
@@ -67,16 +62,11 @@
     "almacenes": [
       {
         "pasillos": 2,
-        "ubicacionesPorNivel": 2,
+        "ubicacionesPorNivel": 20,
         "niveles": 6,
-        "profundidad": 1
-      },
-      {
-        "pasillos": 1,
-        "ubicacionesPorNivel": 4,
-        "niveles": 4,
         "profundidad": 2
       }
+     
     ]
   }
 ]
