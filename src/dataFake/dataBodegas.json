@@ -1,38 +1,82 @@
 [
   {
-    "idBodega": "S0021 ",
-    "nombreBodega": " BODEGA NACIONAL",
+    "idBodega": "S0021",
+    "nombreBodega": "BODEGA NACIONAL",
     "idAlmacen": 80194,
     "capacidadMaximaCubica": 1192,
     "cantPosiciones": 7192,
     "mtCuadrados": 4744,
-    "esHabilitada": true
+    "esHabilitada": true,
+    "almacenes": [
+      {
+        "pasillos": 2,
+        "ubicacionesPorNivel": 3,
+        "niveles": 4,
+        "profundidad": 2
+      }
+    ]
   },
   {
-    "idBodega": "S0032 ",
-    "nombreBodega": " BODEGA MEDELLIN",
+    "idBodega": "S0032",
+    "nombreBodega": "BODEGA MEDELLIN",
     "idAlmacen": 62404,
     "capacidadMaximaCubica": 74324,
     "cantPosiciones": 18889,
     "mtCuadrados": 59422,
-    "esHabilitada": true
+    "esHabilitada": true,
+    "almacenes": [
+      {
+        "pasillos": 3,
+        "ubicacionesPorNivel": 4,
+        "niveles": 5,
+        "profundidad": 1
+      }
+    ]
   },
   {
-    "idBodega": "S0045 ",
-    "nombreBodega": " BODEGA CALI",
+    "idBodega": "S0045",
+    "nombreBodega": "BODEGA CALI",
     "idAlmacen": 60398,
     "capacidadMaximaCubica": 5731,
     "cantPosiciones": 81358,
     "mtCuadrados": 73574,
-    "esHabilitada": true
+    "esHabilitada": true,
+    "almacenes": [
+      {
+        "pasillos": 1,
+        "ubicacionesPorNivel": 5,
+        "niveles": 3,
+        "profundidad": 1
+      },
+      {
+        "pasillos": 2,
+        "ubicacionesPorNivel": 3,
+        "niveles": 3,
+        "profundidad": 2
+      }
+    ]
   },
   {
-    "idBodega": "S0018 ",
-    "nombreBodega": " BODEGA BARRANQUILLA",
+    "idBodega": "S0018",
+    "nombreBodega": "BODEGA BARRANQUILLA",
     "idAlmacen": 67276,
     "capacidadMaximaCubica": 90146,
     "cantPosiciones": 54964,
     "mtCuadrados": 5851,
-    "esHabilitada": true
+    "esHabilitada": true,
+    "almacenes": [
+      {
+        "pasillos": 2,
+        "ubicacionesPorNivel": 2,
+        "niveles": 6,
+        "profundidad": 1
+      },
+      {
+        "pasillos": 1,
+        "ubicacionesPorNivel": 4,
+        "niveles": 4,
+        "profundidad": 2
+      }
+    ]
   }
 ]
