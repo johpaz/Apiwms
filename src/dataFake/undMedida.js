@@ -52,7 +52,7 @@
     {
       "nombreUnidad": "Centímetro",
       "simboloUnidad": "cm",
-      "conversion": 0.01  // 1 m = 100 cm
+      "conversion": 1
     }
   
   ]
