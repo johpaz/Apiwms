@@ -12,7 +12,7 @@
     {
       "nombreUnidad": "Gramo",
       "simboloUnidad": "g",
-      "conversion": 0.001  // 1 kg = 1000 g
+      "conversion": 1  
     },
     {
       "nombreUnidad": "Litro",
@@ -22,7 +22,7 @@
     {
       "nombreUnidad": "Mililitro",
       "simboloUnidad": "mL",
-      "conversion": 0.001  // 1 L = 1000 mL
+      "conversion": 1
     },
     {
       "nombreUnidad": "Caja",
@@ -32,7 +32,7 @@
     {
       "nombreUnidad": "Docena",
       "simboloUnidad": "dz",
-      "conversion": 12  // 1 docena = 12 unidades
+      "conversion": 12
     },
     {
       "nombreUnidad": "Paquete",
